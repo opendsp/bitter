@@ -1,0 +1,19 @@
+{
+  "name": "bitter",
+  "version": "1.0.0",
+  "description": "bit depth reduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendsp/bitter.git"
+  },
+  "author": "potasmic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opendsp/bitter/issues"
+  },
+  "homepage": "https://github.com/opendsp/bitter#readme"
+}
